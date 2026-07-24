@@ -1,0 +1,63 @@
+# Citrine Informatics: AI for Product Development, Production, and Sales in Materials and Chemicals
+
+> Citrine Informatics is the world leader in generative AI for materials and chemicals product development\.
+
+This is an llms.txt file, meant for consumption by LLMs.
+
+## Pages
+- [Webinars](https://citrine.io/resources/webinars/)
+- [Home Page](https://citrine.io/)
+- [White Paper \- Transforming Customer Responsiveness](https://citrine.io/resources/white-papers/white-paper-transforming-customer-responsiveness/): This white paper explores how artificial intelligence is fundamentally transforming the formulation development landscape, enabling chemicals suppliers to achieve unprecedented levels of customer responsiveness while simultaneously reducing development costs and accelerating time\-to\-market\.
+- [White Papers](https://citrine.io/resources/white-papers/)
+- [White Paper \- How to Successfully Implement AI](https://citrine.io/resources/white-papers/white-paper-how-to-successfully-implement-ai/): After 12 years of steady growth, we've reached a meaningful turning point in the adoption of AI across the materials and chemicals industry\.
+- [Citrine Platform](https://citrine.io/platform/)
+- [Citrine Data Manager](https://citrine.io/platform/citrine-datamanager/)
+- [Citrine VirtualLab](https://citrine.io/platform/citrine-virtuallab/)
+- [Who We Help \- Industries \- Plastics](https://citrine.io/who-we-help/plastics/)
+- [Who We Help \- Industries \- Coatings, Adhesives and Sealants](https://citrine.io/who-we-help/coatings-adhesives-and-sealants/)
+- [Who We Help \- Industries \- Specialty Chemicals](https://citrine.io/who-we-help/specialty-chemicals/)
+
+## Posts
+- [Blog: What is \"AI\-Ready data?\" And how much do you need to get started\?](https://citrine.io/what-is-ai-ready-data-and-how-much-do-you-need-to-get-started/): AI looks for patterns in cause and effect\. So it needs detailed, accurate information on the inputs, in our case, a full materials and processing history of the product, and outputs, the properties of the final product that you care about\.
+- [Webinar: Introduction to Materials and Chemicals Informatics](https://citrine.io/introduction-to-materials-and-chemicals-informatics/): Over the past 12 years, Citrine Informatics has specialized in materials and chemicals informatics, assisting companies like LyondellBasell, Eastman, and Grace in optimizing technical properties, processing parameters, ingredient costs, and sustainability\. AI is now not a nice to have, but an essential tool in remaining competitive\.
+- [Webinar: From Data Silos to AI Success: Lessons from Collano's Journey](https://citrine.io/from-data-silos-to-ai-success-lessons-from-collanos-journey/): In this webinar, Raphael Schaller, CTO of Collano, shares how his team envisioned their data to make it usable for AI\-driven materials discovery\. He reflects on what he would do differently if starting over, and how adopting the Citrine Platform has accelerated learning, collaboration, and innovation across the organization\.
+- [Blog: Models Are Useless Unless You Use Them](https://citrine.io/models-are-useless-unless-you-use-them/): Models, in isolation, generate no value\. A model is an incredibly powerful tool—it combines expert knowledge with real\-world data to extract insight, uncover hidden relationships, and communicate what truly matters across teams\. But a powerful tool left idle on a desktop never helps anyone\. In materials, chemistry, and product development, a mindset shift is required: away from perfecting models in isolation and toward using data\-driven tools to design, test, and validate real materials that deliver real\-world value\.
+- [Case Study: Stepan's Journey With Citrine Informatics](https://citrine.io/stepans-journey-with-citrine-informatics/): Stepan® is a global specialty and intermediate chemical supplier of chemical ingredients and formulations\. It produces surfactants, polymers, and specialty products used in industries such as cleaning, personal care, agriculture, and rigid foam insulation\.
+- [Webinar: Transformative Capabilities: The next paradigm in materials AI](https://citrine.io/transformative-capabilities-the-next-paradigm-in-materials-ai/): We don’t just lead the field of materials AI — we’re redefining it\. Join us as we unveil the next paradigm in materials AI and what it means for the future of innovation\.
+- [Webinar: Hair Care: Hair We Go Again\! Optimizing surfactant use in shampoos, using machine learning](https://citrine.io/hair-care-hair-we-go-again-optimizing-surfactant-use-in-shampoos-using-machine-learning/): We will explore how surfactant producers, contract manufactures, and brands can use machine learning to transition shampoo formulations to plant\-based ingredients\.
+
+## Media Post
+- [Unveiling the next frontier in materials AI](https://citrine.io/media-post/unveiling-the-next-frontier-in-materials-ai/)
+- [Citrine Informatics Recognized in Inaugural CleanAI 60: Sixty Ventures to Watch at the Intersection of AI and Climate](https://citrine.io/media-post/citrine-informatics-recognized-in-inaugural-cleanai-60-sixty-ventures-to-watch-at-the-intersection-of-ai-and-climate/)
+- [Citrine Informatics and Econic Technologies Announce Partnership to Accelerate Development of CO\<sub\>2\</sub\>‑Based Materials](https://citrine.io/media-post/citrine-informatics-and-econic-technologies-announce-partnership-to-accelerate-development-of-co₂‑based-materials/)
+- [Citrine Informatics to Provide AI for DARPA INTACT Program, Revolutionizing Ceramic Toughness](https://citrine.io/media-post/citrine-informatics-to-provide-ai-for-darpa-intact-program-revolutionizing-ceramic-toughness/): Citrine Informatics today announced its participation in the Defense Advanced Research Projects Agency \(DARPA\) INTACT \(Intrinsically Tough and Affordable Ceramics Today\) program\.
+- [Inc: Is It Time To Rethink The Scientific Method?](https://citrine.io/media-post/is-it-time-to-rethink-the-scientific-method/)
+
+## Categories
+- [All Webinars](https://citrine.io/category/webinars/all-webinars/)
+- [Other](https://citrine.io/category/webinars/other/)
+- [Business Case \& Concepts](https://citrine.io/category/webinars/business-case-and-concepts/)
+- [Hear From Industry](https://citrine.io/category/webinars/hear-from-industry/)
+- [Additives \& Ingredients](https://citrine.io/category/webinars/additives-and-ingredients/)
+
+## Product Classes
+- [Paint, Coatings, Adhesives and Sealants](https://citrine.io/product-class/paint-coatings-adhesives-and-sealants/)
+- [Polymers](https://citrine.io/product-class/polymers/)
+- [Composites](https://citrine.io/product-class/composites/)
+- [Agrichem](https://citrine.io/product-class/agrichem/)
+- [Formulations](https://citrine.io/product-class/formulations/)
+
+## Topics
+- [Application Engineering](https://citrine.io/topic/application-engineering/)
+- [Additive Manufacturing](https://citrine.io/topic/additive-manufacturing/)
+- [Efficient Testing](https://citrine.io/topic/efficient-testing/)
+- [Sustainability](https://citrine.io/topic/sustainability/)
+- [Cost Reduction](https://citrine.io/topic/cost-reduction/)
+- [Process Optimization](https://citrine.io/topic/process-optimization/)
+
+## Media Category
+- [Articles](https://citrine.io/media-type/news/)
+- [Press Releases](https://citrine.io/media-type/press-releases/)
+
+## Optional
+- [Sitemap index](http://citrine.io/sitemap_index.xml)

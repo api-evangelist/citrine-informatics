@@ -1,0 +1,23 @@
+generated: '2026-07-18'
+method: searched
+source: https://pypi.org/project/citrine/
+packages:
+  - language: python
+    registry: pypi
+    name: citrine
+    url: https://pypi.org/project/citrine/
+    install: pip install citrine
+    version: 4.1.0
+    repository: https://github.com/CitrineInformatics/citrine-python
+    docs: https://citrineinformatics.github.io/citrine-python/
+    description: Python library for the Citrine Platform (data management and materials design via Sequential Learning).
+    official: true
+  - language: python
+    registry: pypi
+    name: gemd
+    url: https://pypi.org/project/gemd/
+    install: pip install gemd
+    version: 2.2.4
+    repository: https://github.com/CitrineInformatics/gemd-python
+    description: Python binding for Citrine's GEMD (Graphical Expression of Materials Data) data model.
+    official: true
