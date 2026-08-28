@@ -12,6 +12,17 @@ description: >-
   plastics, personal care, food & beverage, batteries, and metals & alloys, with customers such as
   LyondellBasell, Eastman, Grace, Stepan, and Collano, plus a DARPA INTACT ceramics program.
 url: https://raw.githubusercontent.com/api-evangelist/citrine-informatics/refs/heads/main/apis.yml
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
