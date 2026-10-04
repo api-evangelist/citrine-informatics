@@ -48,7 +48,7 @@ tags:
 - Company
 - Materials Informatics
 - Artificial Intelligence
-- Machine-Learning
+- Machine Learning
 - Chemicals
 - Materials Science
 - Generative AI
@@ -64,6 +64,7 @@ tags_raw:
 - Generative AI
 - SDK
 - Python
+- Machine-Learning
 apis: []
 maintainers:
 - FN: Kin Lane
