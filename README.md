@@ -64,6 +64,87 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Citrine Informatics is a company surfaced as a portfolio company of dcvc and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Citrine Informatics is an enterprise AI software company for materials and chemicals product development, positioning itself as the world leader in generative AI for the space. The Citrine Platform pairs Citrine DataManager (capturing and organizing organizational materials knowledge on the open-source GEMD data model) with Citrine VirtualLab (running thousands of virtual experiments via Sequential Learning to identify promising formulations), supported by Citrine Catalyst and professional services. Developers integrate through the first-party Python SDK (the "citrine" and "gemd" PyPI libraries) to upload and manage data, build tables, and configure predictors and design spaces. Citrine serves 15+ industries including specialty chemicals, coatings/adhesives/sealants, plastics, personal care, food & beverage, batteries, and metals & alloys, with customers such as LyondellBasell, Eastman, Grace, Stepan, and Collano, plus a DARPA INTACT ceramics program.
 
-Backed by: dcvc
+**Areas:** Company · Materials Informatics · Artificial Intelligence · Machine Learning · Chemicals · Materials Science · Generative AI · SDK · Python
+
+## Citrine Informatics on APIs.io
+
+Everything profiled for Citrine Informatics is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/citrine-informatics/](https://apis.io/providers/citrine-informatics/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Citrine Informatics Domain Security](https://apis.io/security/citrine-informatics/citrine-informatics-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://citrine.io)
+- [Documentation](https://citrineinformatics.github.io/citrine-python/)
+- [Getting started](https://citrineinformatics.github.io/citrine-python/getting_started/index.html)
+- [API reference](https://citrineinformatics.github.io/citrine-python/reference/modules.html)
+- [Sign up](https://citrine.io/request-a-demo/)
+- [Support](https://citrine.io/contact/)
+- [Blog](https://citrine.io/resources/blog/)
+- [Privacy policy](https://citrine.io/privacy-policy/)
+- [GitHub](https://github.com/CitrineInformatics)
+
+## API Evangelist rating
+
+**Kin Score 19.8** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 52.4 |
+| Access clarity | 23.7 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 9.1** — AI & Biometrics
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/citrine-informatics/](https://apis.io/providers/citrine-informatics/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Citrine Informatics: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/citrine-informatics/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
